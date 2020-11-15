@@ -7,3 +7,5 @@
  - 3d Effects
  - Gestures 
  - Etc...
+
+![Alt Text](https://github.com/myawesomehub/DesignCodeClone/blob/master/ezgif.com-gif-maker.gif)
