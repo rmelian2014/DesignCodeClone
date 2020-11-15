@@ -8,4 +8,4 @@
  - Gestures 
  - Etc...
 
-![Alt Text](https://github.com/myawesomehub/DesignCodeClone/blob/master/ezgif.com-gif-maker.gif)
+![Alt Text](https://github.com/myawesomehub/DesignCodeClone/blob/master/Apps%20Look.gif)
